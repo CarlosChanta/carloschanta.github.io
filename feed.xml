@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-20T15:03:43-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Deuna! App</title><author><name>Carlos Chanta</name><email>cchanta@pichincha.com</email></author><entry><title type="html">Carlos Chanta - CV</title><link href="http://localhost:4000/posts/carlos-chanta/" rel="alternate" type="text/html" title="Carlos Chanta - CV" /><published>2022-09-19T05:10:00-05:00</published><updated>2022-09-19T05:10:00-05:00</updated><id>http://localhost:4000/posts/carlos-chanta</id><content type="html" xml:base="http://localhost:4000/posts/carlos-chanta/"><![CDATA[<h2 id="acerca-de-mi"><strong>ACERCA DE MI</strong></h2>
+
+<p>DevOps, Infraestructura, TI en general, usuario acérrimo de linux. En mis pocos años de experiencia sé que puedo
+estar en cualquier institución con miras en la tecnología, ofreciendo soluciones y trabajo a la empresa a la que
+pertenezco, de forma profesional y efectiva.</p>
+
+<h2 id="experiencia"><strong>EXPERIENCIA</strong></h2>
+
+<h3 id="senior-devops-specialist"><strong>Senior DevOps Specialist</strong></h3>
+
+<p><strong><em>ACL Tecnología - Cliente: Banco Itaú Chile</em></strong></p>
+
+<p><strong><em>Enero 2022 - Actualidad</em></strong></p>
+
+<p><strong><em>Full Remote Position</em></strong></p>
+<ul>
+  <li>Senior DevOps Engineer for new integrations (Cloud - OnPremise).</li>
+  <li>Technologies: K8S, AWS (EC2-ECS-EKS). Jenkins, Sonarqube, Gitlab</li>
+  <li>Languages to deploy: Javascript, Java, DotNET</li>
+</ul>
+
+<h3 id="devops-team-leader"><strong>DevOps Team Leader</strong></h3>
+<p><strong><em>Inetum Perú - Cliente: Belcorp</em></strong></p>
+
+<p><strong><em>Agosto 2021 - Diciembre 2021</em></strong></p>
+
+<ul>
+  <li>Leader of the AMS DevOps Team</li>
+  <li>Management of architecture and new DevOps tools Implementations.</li>
+  <li>Infrastructure DevOps team management.</li>
+  <li>Task resolution monitoring and internal training.</li>
+  <li>Cloud environment infrastructure management.</li>
+  <li>Technologies: AWS (ECS, CodeDeploy), Vault, Jenkins, Ansible, SonarQube, etc..</li>
+</ul>
+
+<h3 id="solutions-architect"><strong>Solutions Architect</strong></h3>
+<p><strong><em>CoreBiz - Cliente: VTEX LATAM</em></strong></p>
+
+<p><strong><em>Full Remote Position</em></strong></p>
+
+<p><strong><em>Junio 2020 - Julio 2021</em></strong></p>
+
+<ul>
+  <li>E-commerce Solutions Architect in VTEX-based Platform (Legacy/IO).</li>
+  <li>SOA model and demos of web funcionality.</li>
+  <li>Fullstack Technologies (react) and DevOps/Cloud Stack (K8S, Azure, Aws)</li>
+</ul>
+
+<h3 id="arquitecto-de-infraestructura-y-cloud"><strong>Arquitecto de Infraestructura y Cloud</strong></h3>
+
+<p><strong><em>Everis Perú - Cliente: Banco de Crédito del Perú (BCP)</em></strong></p>
+
+<p><strong><em>Lima - Perú</em></strong></p>
+
+<p><strong><em>Abril 2020 - Junio 2021</em></strong></p>
+
+<p>Proyecto Atlas - Deployment Team</p>
+<ul>
+  <li>Creación de procesos CD para kubernetes (azure) y Openshift.</li>
+  <li>Procesos de despliegue de apps/conectores Apache Kafka, Messaging</li>
+  <li>Soporte y solución de incidencias a equipo core/monitorización.</li>
+</ul>
+
+<h3 id="course-instructor-devops-expert"><strong>Course Instructor DevOps Expert</strong></h3>
+
+<p><strong><em>Tecamia</em></strong></p>
+
+<p><strong><em>Abril 2021 - Junio 2021</em></strong></p>
+
+<ul>
+  <li>Instructor del curso DevOps Expert basado en casa certificadora certJoin</li>
+  <li>Curso completo y webinars relacionados a TI</li>
+</ul>
+
+<h3 id="analista-qadevops"><strong>Analista QA/DevOps</strong></h3>
+
+<p><strong><em>PROMART</em></strong></p>
+
+<p><strong><em>Lima - Perú</em></strong></p>
+
+<p><strong><em>Marzo 2019 - Marzo 2020</em></strong></p>
+
+<ul>
+  <li>Rol QA, testing manual y automático de landings, y campañas comerciales</li>
+  <li>Implementación de un Modelo de calidad basado en ISO 12207 y CMMI</li>
+  <li>Implementación de pruebas automatizadas con Selenium WebDriver, Cucumber BDD, Maven y JUnit</li>
+  <li>Rol como DevOps, Creación de aplicativos de integración entre Gitlab y VTEX, y Azure DevOps y VTEX usando APIs publicas y algunas creadas en postman.</li>
+  <li>Creada estrategia de branching basada en gitflow</li>
+  <li>Creación de build/deploy pipelines con scripts en Python, Java y totalmente dockerizadas</li>
+</ul>
+
+<h3 id="analista-qa"><strong>Analista QA</strong></h3>
+
+<p><strong><em>IDE Solution - Cliente: Financiera Efectiva</em></strong></p>
+
+<p><strong><em>Lima - Perú</em></strong></p>
+
+<p><strong><em>Junio 2018 - Marzo 2019</em></strong></p>
+
+<ul>
+  <li>Ejecución de pruebas a servicios y Webs SOAP/REST para manejo de cobranzas, gestión de créditos y originación de cartera de clientes.</li>
+  <li>Automatización, con aplicativos en 4GL y C#, ahorrando meses de creación de casos de clientes</li>
+  <li>A cargo de pruebas de nuevo app Móvil de financiera</li>
+</ul>
+
+<h3 id="qa-manager"><strong>QA Manager</strong></h3>
+
+<p><strong><em>IDE Solution</em></strong></p>
+
+<p><strong><em>Chiclayo - Perú</em></strong></p>
+
+<p><strong><em>Setiembre 2017 - Junio 2018</em></strong></p>
+
+<ul>
+  <li>Encargado el área de control de calidad de la empresa, recién creada.</li>
+  <li>Manejo de grupo de 5 Analistas de calidad otorgando capacitación constante ayuda paraque aprendan los procesos y puedan desarrollar sus funciones.</li>
+  <li>Apoyo en proyectos y aplicativos a enviarse a clientes, dando cuentas a jefes de proyectos y priorizando la calidad de entregables.</li>
+</ul>
+
+<h3 id="analista-qa-1"><strong>Analista QA</strong></h3>
+
+<p><strong><em>IDE Solution - Cliente: Financiera Efectiva</em></strong></p>
+
+<p><strong><em>Chiclayo - Perú</em></strong></p>
+
+<p><strong><em>Mayo 2017 - Setiembre 2017</em></strong></p>
+
+<ul>
+  <li>Ejecución de pruebas, proyectos de financiera y Retail.</li>
+  <li>QA de Helpdesk, atendiendo validando soluciones a problemas a Mesa de ayuda</li>
+  <li>Proyectos de campañas parametrizadas, para mejora del usuario, como sábanas de datos</li>
+</ul>
+
+<h3 id="analista-programador"><strong>Analista Programador</strong></h3>
+
+<p><strong><em>IDE Solution</em></strong></p>
+
+<p><strong><em>Chiclayo - Perú</em></strong></p>
+
+<p><strong><em>Enero 2017 - Mayo 2017</em></strong></p>
+
+<ul>
+  <li>Analista de desarrollo interno en IDE-Solution, desarrollando aplicativos para el cliente principal: Financiera Efectiva.</li>
+  <li>Programé reportes financieros para SBS, mantenedores en Informix 4GL, y diversas tareas y reportes, con detalle y estimación de lo desarrollado</li>
+</ul>
+
+<h2 id="habilidades-y-conocimientos"><strong>HABILIDADES Y CONOCIMIENTOS</strong></h2>
+
+<p>Herramientas y tecnologías:</p>
+
+<ul>
+  <li>GIT</li>
+  <li>JIRA</li>
+  <li>Jenkins</li>
+  <li>Docker</li>
+  <li>Openshift</li>
+  <li>Kubernetes</li>
+  <li>Postman (API Testing)</li>
+  <li>Gitlab -Github</li>
+  <li>Azure DevOps</li>
+  <li>Apache kafka</li>
+  <li>Ansible</li>
+  <li>GNU/Linux</li>
+</ul>
+
+<p>Lenguajes de programación:</p>
+
+<ul>
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>GO (golang)</li>
+  <li>Python</li>
+  <li>Groovy</li>
+</ul>
+
+<p>Metodologías y otros</p>
+
+<ul>
+  <li>DevOps - Cultura e integraciones</li>
+  <li>Programación: estructurada / orientada a objetos</li>
+  <li>Conocimiento de metodología ágiles: Scrum, Kanban</li>
+</ul>
+
+<h2 id="educación-y-certificados"><strong>EDUCACIÓN Y CERTIFICADOS</strong></h2>
+
+<p>Universidad Nacional Pedro Ruiz Gallo</p>
+
+<p>Ingeniería en Computación e informática</p>
+
+<p>Curricula Completa</p>
+
+<p>2010 - 2015</p>
+
+<p>EXIN - DevOps Master</p>
+
+<p>Credencial: 6284971.20772717</p>]]></content><author><name>Carlos Chanta</name><email>cchanta@pichincha.com</email></author><category term="devops" /><category term="jekyll" /><summary type="html"><![CDATA[ACERCA DE MI]]></summary></entry><entry><title type="html">Jekyll Markdown</title><link href="http://localhost:4000/posts/jekyll-markdown/" rel="alternate" type="text/html" title="Jekyll Markdown" /><published>2021-11-04T00:00:00-05:00</published><updated>2021-11-04T00:00:00-05:00</updated><id>http://localhost:4000/posts/jekyll-markdown</id><content type="html" xml:base="http://localhost:4000/posts/jekyll-markdown/"><![CDATA[<p>Text can be <strong>bold</strong>, <em>italic</em>, <del>strikethrough</del> or <code class="language-plaintext highlighter-rouge">keyword</code></p>
+
+<p><a href="./another-page.html">Link to another page</a>.</p>
+
+<p>There should be whitespace between paragraphs.</p>
+
+<p>There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.</p>
+
+<h4 id="image">Image</h4>
+
+<p>Images can be clicked to enlarge :)</p>
+
+<p><img src="https://picsum.photos/1366/768" alt="Dummy Image 1" />
+<img src="https://picsum.photos/1200/400" alt="Dummy Image 2" /></p>
+
+<h1 id="header-1">Header 1</h1>
+
+<p>This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+
+<h2 id="header-2">Header 2</h2>
+
+<blockquote>
+  <p>This is a blockquote following a header.</p>
+
+  <p>When something is important enough, you do it even if the odds are not in your favor.</p>
+</blockquote>
+
+<h3 id="header-3">Header 3</h3>
+
+<blockquote>
+  <p>This is another blockquote following header 3</p>
+</blockquote>
+
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
+<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nx">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">"</span><span class="s2">./lang/</span><span class="dl">"</span> <span class="o">+</span> <span class="nx">l</span><span class="p">);</span>
+  <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
+<span class="p">};</span>
+</code></pre></div></div>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Ruby code with syntax highlighting</span>
+<span class="no">GitHubPages</span><span class="o">::</span><span class="no">Dependencies</span><span class="p">.</span><span class="nf">gems</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">gem</span><span class="p">,</span> <span class="n">version</span><span class="o">|</span>
+  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<h4 id="header-4">Header 4</h4>
+
+<ul>
+  <li>This is an unordered list following a header.</li>
+  <li>This is an unordered list following a header.</li>
+  <li>This is an unordered list following a header.</li>
+</ul>
+
+<h5 id="header-5">Header 5</h5>
+
+<ol>
+  <li>This is an ordered list following a header.</li>
+  <li>This is an ordered list following a header.</li>
+  <li>This is an ordered list following a header.</li>
+</ol>
+
+<h6 id="header-6">Header 6</h6>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">head1</th>
+      <th style="text-align: left">head two</th>
+      <th style="text-align: left">three</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good swedish fish</td>
+      <td style="text-align: left">nice</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">out of stock</td>
+      <td style="text-align: left">good and plenty</td>
+      <td style="text-align: left">nice</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">oreos</code></td>
+      <td style="text-align: left">hmm</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">ok</td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">zoute</code> drop</td>
+      <td style="text-align: left">yumm</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="theres-a-horizontal-rule-below-this">There’s a horizontal rule below this.</h3>
+
+<hr />
+
+<h3 id="here-is-an-unordered-list">Here is an unordered list:</h3>
+
+<ul>
+  <li>Item foo</li>
+  <li>Item bar</li>
+  <li>Item baz</li>
+  <li>Item zip</li>
+</ul>
+
+<h3 id="and-an-ordered-list">And an ordered list:</h3>
+
+<ol>
+  <li>Item one
+    <ol>
+      <li>Item one</li>
+      <li>Item two
+        <ol>
+          <li>Item one</li>
+          <li>Item two</li>
+          <li>Item three</li>
+        </ol>
+      </li>
+      <li>Item three</li>
+    </ol>
+  </li>
+  <li>Item four</li>
+  <li>Item two</li>
+  <li>Item three</li>
+  <li>Item four</li>
+</ol>
+
+<h3 id="and-a-nested-list">And a nested list:</h3>
+
+<ul>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item
+        <ul>
+          <li>level 3 item</li>
+          <li>level 3 item</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+    </ul>
+  </li>
+  <li>level 1 item
+    <ul>
+      <li>level 2 item</li>
+      <li>level 2 item</li>
+    </ul>
+  </li>
+  <li>level 1 item</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long.
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
+</code></pre></div></div>]]></content><author><name>Carlos Chanta</name><email>cchanta@pichincha.com</email></author><category term="jekyll" /><category term="Test Post" /><category term="first post" /><summary type="html"><![CDATA[Text can be bold, italic, strikethrough or keyword]]></summary></entry></feed>
